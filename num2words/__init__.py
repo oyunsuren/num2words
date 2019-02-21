@@ -86,7 +86,8 @@ CONVERTER_CLASSES = {
     'th': lang_TH.Num2Word_TH(),
     'tr': lang_TR.Num2Word_TR(),
     'nl': lang_NL.Num2Word_NL(),
-    'uk': lang_UK.Num2Word_UK()
+    'uk': lang_UK.Num2Word_UK(),
+    'mn': lang_MN.Num2Word_MN()
 }
 
 
