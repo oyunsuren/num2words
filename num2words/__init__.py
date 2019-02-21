@@ -51,6 +51,7 @@ from . import lang_SL
 from . import lang_SR
 from . import lang_TH
 from . import lang_KO
+from . import lang_MN
 
 CONVERTER_CLASSES = {
     'ar': lang_AR.Num2Word_AR(),
