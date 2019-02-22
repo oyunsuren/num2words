@@ -17,7 +17,7 @@
 from .base import Num2Word_Base
 from .utils import get_digits, splitby3
 
-ZERO = 'тэг'
+ZERO = u'тэг'
 
 ONES = {
     1: (u'нэг', u'нэгэн',),
