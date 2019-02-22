@@ -17,7 +17,7 @@
 from .base import Num2Word_Base
 from .utils import get_digits, splitby3
 
-ZERO = u'тэг'
+ZERO = 'тэг'
 
 ONES = {
     1: (u'нэг', u'нэгэн',),
@@ -43,7 +43,7 @@ TENS = {
     9: (u'ерэн',),
 }
 
-HUNDREDS = u'зуун'
+HUNDREDS = 'зуун'
 
 THOUSANDS = {
     1: (u'мянга', u'мянган'),  # 10^3
