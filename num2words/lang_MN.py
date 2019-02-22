@@ -43,7 +43,7 @@ TENS = {
     9: (u'ерэн',),
 }
 
-HUNDREDS = 'зуун'
+HUNDREDS = u'зуун'
 
 THOUSANDS = {
     1: (u'мянга', u'мянган'),  # 10^3
